@@ -1,0 +1,4 @@
+echo streamlit==1.52.1 
+echo pandas==2.3.3 
+echo ollama 
+echo python-dotenv 
